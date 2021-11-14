@@ -113,7 +113,7 @@ $ yarn start
 ## :memo: License
 
 Este projeto está sob a licença do MIT.
-Consulte o [LICENSE](https://github.com/JulioCesar012/NLW3_Happy/blob/master/LICENSE) para obter detalhes.
+Consulte o [LICENSE](https://github.com/JulioCesar012/NLW3_Happy/blob/master/LICENCE) para obter detalhes.
 
 Feito com ♥ por Julio Filho :wave: [Entre em contato!](https://www.linkedin.com/in/julio-cesar-filho-759653171)
 
