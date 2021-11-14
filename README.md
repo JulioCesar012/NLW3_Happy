@@ -11,12 +11,12 @@
   </a>
 
   <a href="https://github.com/JulioCesar012/NLW3/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JulioCesar012/NLW3">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JulioCesar012/NLW3_Happy">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    <a href="https://github.com/JulioCesar012/NLW3/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/JulioCesar012/NLW-3.0?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/JulioCesar012/NLW3_Happy?style=social">
   </a>
 </p>
 <p align="center">
