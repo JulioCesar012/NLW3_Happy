@@ -68,10 +68,10 @@ Digite os seguintes comandos:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/JulioCesar012/NLW3
+$ git clone https://github.com/JulioCesar012/NLW3_Happy
 
 # Go into the repository
-$ cd NLW-3.0/backend
+$ cd NLW3_Happy/backend
 
 # Install dependencies
 $ yarn install
@@ -89,10 +89,10 @@ $ yarn dev
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/JulioCesar012/NLW3
+$ git clone https://github.com/JulioCesar012/NLW3_Happy
 
 # Go into the repository
-$ cd NLW-3.0/web
+$ cd NLW3_Happy/web
 
 # Install dependencies
 $ yarn install
