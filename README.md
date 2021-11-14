@@ -20,22 +20,22 @@
   </a>
 </p>
 <p align="center">
-  <a href="#-nlw">Sobre o Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-Technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">UI Figma</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-use">Como testar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">Contribua no projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#newspaper-sobre-o-next-level-week">Sobre o Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-sobre-o-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#paperclip-layout">UI Figma</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#detective-para-usar">Como testar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#thinking-how-to-contribute">Contribua no projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
-## :information_source: O que é o Next Level Week?
+## :newspaper: Sobre o Next Level Week
 
 NLW é uma semana prática com muito código, desafios, networking e um único objetivo: levá-lo ao próximo nível.
 Através do nosso método você aprenderá novas ferramentas, aprenderá sobre novas tecnologias e descobrirá hacks que irão impulsionar sua carreira.
 Um evento online totalmente gratuito que o ajudará a dar o próximo passo em sua evolução como desenvolvedor.
 
-## 💻 Sobre o projeto
+## :computer: Sobre o projeto
 
 Happy é um projeto desenvolvido com base no Dia das Crianças.
 O objetivo é conectar as pessoas a orfanatos que permitem tornar o dia de cada criança mais especial.
@@ -54,11 +54,11 @@ O projeto foi desenvolvido com as seguintes Tecnologias:
 - [React Native][rn]
 <!-- - [Expo][expo] -->
 
-## 🔖 Layout
+## :paperclip: Layout
 
 Para visualizar e usar o layout do projeto acesso no [Figma](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web/duplicate).
 
-## :information_source: Para usar
+## :detective: Para usar
 
 Para clonar e executar este aplicativo, você precisará do [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] instalados em seu computador.
 
@@ -103,7 +103,7 @@ $ yarn start
 # running on port 3000
 ```
 
-## 🤔 How to contribute
+## :thinking: How to contribute
 
 - Faça um fork;
 - Crie um branch com seu recurso: `git checkout -b my-feature`;
